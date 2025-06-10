@@ -19,7 +19,8 @@ Welcome to my digital journey log. This repository tracks my growth in the world
 | Date | Summary |
 |------|---------|
 | [2025-06-08](logs/2025-06-08.md) | Setup GitHub & Journey Log |
-| [2025-06-10](logs/2025-06-10.md) | WROTE 2ND LOG & WORKED ON PROJECTS |
+| [2025-06-10](logs/2025-06-10.md) | Started Solar System Simulation Project (HTML + Planning) |
+
 
 ---
 
